@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Basic",
+    "price": 199,
+    "shops": 1,
+    "desc": "Til dig der har brug for en enkel løsning",
+    "amountShops": 1,
+    "stripeId": "daysure_199",
+    "tags": [
+      "1 Butik",
+      "Op til 20 services",
+      "Ubegrænsede bookinger",
+      "Bestilling til kunder via email"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Medium",
+    "price": 299,
+    "stripeId": "daysure_299",
+    "shops": 3,
+    "amountShops": 3,
+    "desc": "Nu vil du lidt mere",
+    "tags": [
+      "3 Butikker",
+      "Op til 20 services",
+      "Ubegrænsede bookinger",
+      "Bestilling til kunder via email"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Stor",
+    "price": 399,
+    "shops": 10,
+    "amountShops": 10,
+    "stripeId": "daysure_399",
+    "desc": "Den store verden",
+    "tags": [
+      "10 Butikker",
+      "Op til 20 services",
+      "Ubegrænsede bookinger",
+      "Bestilling til kunder via email"
+    ]
+  }
+]

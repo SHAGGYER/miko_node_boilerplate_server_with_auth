@@ -1,0 +1,43 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "country-code-lookup": "^0.0.20",
+    "dotenv": "^14.2.0",
+    "encryptly-auth-sdk": "^1.0.4",
+    "expo-server-sdk": "^3.6.0",
+    "express": "^4.17.2",
+    "geoip-country": "^4.0.104",
+    "ipware": "^2.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.1",
+    "mongoose": "^6.1.7",
+    "mongoose-fuzzy-searching": "^2.0.2",
+    "nodemailer": "^6.7.2",
+    "nodemon": "^2.0.15",
+    "random-words": "^1.1.2",
+    "shelljs": "^0.8.5",
+    "shortid": "^2.2.16",
+    "socket.io": "^4.4.1",
+    "stripe": "^8.199.0",
+    "swagger-jsdoc": "5.0.1",
+    "swagger-ui-express": "^4.5.0",
+    "tld-extract": "^2.0.1",
+    "uuid": "^8.3.2",
+    "validator": "^13.7.0",
+    "xlsx": "^0.17.5",
+    "yargs": "^17.3.1"
+  }
+}
